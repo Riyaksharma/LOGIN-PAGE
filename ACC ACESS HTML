@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>LOGIN PAGE</title>
+    <link rel="stylesheet" href="LOGINPAGE.css">
+  </head>
+  <body>
+    <div class="box">
+    <h2><span>Login</span><span>Recover My Password</span></h2>
+    <input type="text" placeholder="Username" class="username" />
+    <input type="password" placeholder="Password" class="password" />
+    <a id="forgotPwd"><span>Forgot password ?</span>
+    <span>Oh I remembered!</span></a>
+    <button><span>Sign In</span>   <span>Recover My Password</span></button>
+    </div>
+  </body>
+</html>
